@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - guard
+  - waypoint
+  - enemy
+  - navmeshfloor
+  - positionandtransform
+  - book
+  - magicBook
+  - waypiontJump
+  - navmeshup
+  - dontMove
+  - positionandtransformplayer
+  - sector
+  - evilBook
+  - bookColor
+  - catchBook
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - points
+  - upp
+  - floor
+  - navmeshfloor
+  - navmeshjump
+  - books
+  - bounds
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
